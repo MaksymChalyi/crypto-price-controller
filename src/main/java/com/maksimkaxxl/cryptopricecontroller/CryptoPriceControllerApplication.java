@@ -11,5 +11,4 @@ public class CryptoPriceControllerApplication {
     public static void main(String[] args) {
         SpringApplication.run(CryptoPriceControllerApplication.class, args);
     }
-
 }
