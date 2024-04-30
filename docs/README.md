@@ -9,7 +9,7 @@ The controller retrieves prices from a storage that is asynchronously populated 
 ### Getting Started
 To run the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/MaksymChalyi/crypto-price-controller.gits`
+1. Clone the repository: `git clone https://github.com/MaksymChalyi/crypto-price-controller.git`
 2. Open the project in your preferred IDE.
 3. Configure the database connection in the `application.properties` file by replacing placeholders with actual database URL, username, and password.
 4. Build the project using Maven.
