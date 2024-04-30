@@ -94,7 +94,6 @@ public class CryptoPriceServiceImpl implements CryptoPriceService {
     // Inner class for response mapping
     private static class BinancePriceResponse {
         public String symbol;
-
         public double markPrice;
     }
 }
